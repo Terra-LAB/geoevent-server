@@ -1,0 +1,52 @@
+.left {
+	float:left;
+}
+
+.right {
+	float:right;
+}
+
+#cssmenu {
+  font: 12px Verdana;
+  color: #646464;
+  display: block;
+  height: 25px;
+  text-decoration: none;
+}
+
+img.padding5 {
+	padding: 5px;
+}
+
+.cor-background {
+	background-color: #F2F2F2;
+}
+
+.container-dados {
+	padding: 15px;
+	background-color: #FFFFFF;
+	border-radius: 15px;
+	border: 1px solid;
+	border-color: rgba(197, 203, 203, 0.76);
+	box-shadow: 3px 3px 20px #B3B0B0;
+}
+
+.container-header {
+  background-color: rgb(51, 122, 183);
+  height: 50px;
+  border-top-left-radius: 15px;
+  border-top-right-radius: 15px;
+  padding-left: 15px;
+  margin-top: -15px;
+  margin-left: -15px;
+}
+
+
+.header-branco {
+  display: inline-block;
+  padding: 15px;
+  color: #FFFFFF;
+  font-size: 18px;
+}
+
+

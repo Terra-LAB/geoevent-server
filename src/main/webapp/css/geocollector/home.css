@@ -1,0 +1,35 @@
+.login-container {
+	background-color: #FFFFFF;
+	border-radius: 5px;
+	border: 1px solid #ccc;
+	color: #555;
+ 	line-height: 1.42857143;
+    font-size: 14px;
+   	margin: 0 auto;
+	padding-right: 50px;
+	padding-bottom: 30px;
+	padding-left:50px;
+}
+
+.btn-blue {
+	background-color: rgb(42, 163, 212);
+	font-family: 'Open Sans', sans-serif;	
+	color: #FFFFFF;
+}
+
+.btn-blue.active {
+	background-color: #2082A9;
+	border-color: #adadad;
+	color: #FFFFFF;
+	
+}
+
+.btn-blue:hover {
+	background-color: rgb(64, 184, 232);
+	color: #FFFFFF;	
+}
+
+.open-sans {
+	font-family: 'Open Sans', sans-serif;	
+}
+
